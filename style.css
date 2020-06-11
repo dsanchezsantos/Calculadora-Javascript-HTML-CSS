@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to left, rgba(0, 0, 0, 0.685), white);
+}
+header{
+    padding: 20px;
+}
+section{
+    background: white;
+    width: 400px;
+    height: 350px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px;
+}
+footer{
+    font: bold 15pt Arial;
+    padding-top: 30px;
+}
+div{
+    padding: 5px;
+}
+#num1{
+    margin: auto;
+    width: 300px;
+    background: black;
+    color: white;
+}
+#op{
+    margin: auto;
+}
+#num2{
+    margin: auto;
+    width: 300px;
+    background: black;
+    color: white;
+}
+#res{
+    background: rgba(8, 77, 20, 0.815);
+    width: 300px;
+    height: 150px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 60px;
+    color: rgb(226, 226, 49);
+    font: bold 20pt Arial;
+}
